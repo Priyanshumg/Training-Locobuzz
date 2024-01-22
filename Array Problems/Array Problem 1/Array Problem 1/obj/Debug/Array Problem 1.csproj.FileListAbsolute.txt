@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\locobuzz .net training\Training\Array Problems\Array Problem 1\Array Problem 1\bin\Debug\Array Problem 1.exe.config
+C:\Users\Dell\Desktop\locobuzz .net training\Training\Array Problems\Array Problem 1\Array Problem 1\bin\Debug\Array Problem 1.exe
+C:\Users\Dell\Desktop\locobuzz .net training\Training\Array Problems\Array Problem 1\Array Problem 1\bin\Debug\Array Problem 1.pdb
+C:\Users\Dell\Desktop\locobuzz .net training\Training\Array Problems\Array Problem 1\Array Problem 1\obj\Debug\Array Problem 1.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\locobuzz .net training\Training\Array Problems\Array Problem 1\Array Problem 1\obj\Debug\Array Problem 1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\locobuzz .net training\Training\Array Problems\Array Problem 1\Array Problem 1\obj\Debug\Array Problem 1.exe
+C:\Users\Dell\Desktop\locobuzz .net training\Training\Array Problems\Array Problem 1\Array Problem 1\obj\Debug\Array Problem 1.pdb
