@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPRM", "EPRM.csproj", "{7EF5F634-FA4E-4AA6-9FF1-E35F5EC61CA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EF5F634-FA4E-4AA6-9FF1-E35F5EC61CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF5F634-FA4E-4AA6-9FF1-E35F5EC61CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF5F634-FA4E-4AA6-9FF1-E35F5EC61CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF5F634-FA4E-4AA6-9FF1-E35F5EC61CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2CF4CDB-98C0-42D9-AB0A-DB9A7B706752}
+	EndGlobalSection
+EndGlobal
