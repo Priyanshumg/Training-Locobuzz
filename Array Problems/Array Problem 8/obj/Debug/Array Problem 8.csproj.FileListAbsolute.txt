@@ -1,0 +1,2 @@
+C:\Users\Dell\Desktop\locobuzz .net training\Training\Array Problems\Array Problem 8\obj\Debug\Array Problem 8.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\locobuzz .net training\Training\Array Problems\Array Problem 8\obj\Debug\Array Problem 8.csproj.CoreCompileInputs.cache
